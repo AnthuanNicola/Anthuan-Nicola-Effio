@@ -1,12 +1,10 @@
 # 👋 Hola, soy Anthuan Nicola Effio 
 Desarrollador de software en formación | Apasionado por la robótica  y la programación.
-![Mi proyecto de Arduino]()
 
 ## 🚀 Sobre mí
 - 🔭 Actualmente estudio Desarrollo de software 
 - 💻 Me encanta crear proyectos en culaquier lenguaje
-- ![Anthuan Nick](https://github.com/user-attachments/assets/c7c6be7c-fbd9-41ee-ac13-ef0c8eb42ee5)
-  
+- ![nick](https://github.com/user-attachments/assets/1be99f5a-c515-4d5f-9b50-7cd6899157c5)
 
 
 
