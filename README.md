@@ -1,16 +1,20 @@
-# 👋 Hola, soy Anthuan Nicola
-Desarrollador de software en formación | Apasionado por la robótica, redes y la programación.
+# 👋 Hola, soy Anthuan Nicola Effio 
+Desarrollador de software en formación | Apasionado por la robótica  y la programación.
+![Mi proyecto de Arduino]()
 
 ## 🚀 Sobre mí
-- 🔭 Actualmente estudiando para ser Ingeniero de Software
-- 💻 Me encanta crear proyectos con Arduino, redes y desarrollo web
-- 🎸 También toco la guitarra eléctrica 🎵
+- 🔭 Actualmente estudio Desarrollo de software 
+- 💻 Me encanta crear proyectos en culaquier lenguaje
+- ![Anthuan Nick](https://github.com/user-attachments/assets/c7c6be7c-fbd9-41ee-ac13-ef0c8eb42ee5)
+  
+
+
 
 ## 🚀 Tecnologías que uso
 
 <div align="center">
   
-![Python](https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif)
+![Python]((https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?logo=visual-studio&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
@@ -25,7 +29,7 @@ Desarrollador de software en formación | Apasionado por la robótica, redes y l
 </div>
 
 ## 📫 Cómo contactarme
-- 📧 anthuan@example.com 
+- 📧 Anthuaneffio@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/anthuan) 
 
 
