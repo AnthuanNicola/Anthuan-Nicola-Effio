@@ -13,6 +13,8 @@ Desarrollador de software en formación | Apasionado por la robótica, redes y l
 ## 📫 Cómo contactarme
 - 📧 anthuan@example.com (cambia esto por tu correo real)
 - 💼 [LinkedIn](https://linkedin.com/in/anthuan) (si tienes)
+- ![Anthuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthuanNicola&show_icons=true&theme=radical)
+
 
 ---
 _Gracias por visitar mi perfil 💙_
