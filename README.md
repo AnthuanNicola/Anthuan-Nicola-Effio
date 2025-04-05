@@ -14,7 +14,7 @@ Desarrollador de software en formación | Apasionado por la robótica  y la prog
 
 <div align="center">
   
-![Python]((https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-5C2D91?logo=visual-studio&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
